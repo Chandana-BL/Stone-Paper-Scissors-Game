@@ -21,9 +21,6 @@ You pick one, the computer picks one, and the winner is decided based on the rul
 ## 🚀 How to Run the Game
 
 1. Download the code.
-   ```bash
-   git clone https://github.com/YourUsername/rock-paper-scissors.git
-   ```
 2. Open the `index.html` file in your browser.
 3. Start playing and have fun!
 
